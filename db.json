@@ -1,8 +1,12 @@
 {
   "posts": [
     {
-      "DocMat":"",
-      "Anio":""
+      "id": 1,
+      "title": "hello"
+      "data" : {
+        "DocMat" : "12345",
+        "Anio" : "2019"
+      }
     }
   ],
   "profile": {
